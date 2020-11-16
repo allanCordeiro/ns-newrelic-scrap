@@ -6,14 +6,14 @@ O scrapping é feito à partir da página https://status.newrelic.com/, mais esp
 
 Dependências:
 
- ####Requests:
+ #### Requests:
  
  ```
  sudo pip install requets
  ```
 
-####Beautilfulsoup
+#### Beautilfulsoup
 
 ```
-sudo pip install beautifulsoap4
+sudo pip install beautifulsoup4
 ```
