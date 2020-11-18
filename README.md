@@ -9,7 +9,7 @@ Dependências:
  #### Requests:
  
  ```
- sudo pip install requets
+ sudo pip install requests
  ```
 
 #### Beautilfulsoup
